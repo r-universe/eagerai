@@ -1,0 +1,14 @@
+[
+  {
+    "package": "fastai",
+    "oncran": true
+  },
+  {
+    "package": "kerastuneR",
+    "oncran": true
+  },
+  {
+    "package": "tfaddons",
+    "oncran": true
+  }
+]

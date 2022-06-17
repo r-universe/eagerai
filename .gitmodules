@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fastai"]
+	path = fastai
+	url = https://github.com/eagerai/fastai
+	shallow = true
+	registered = true
+[submodule "kerastuneR"]
+	path = kerastuneR
+	url = https://github.com/eagerai/kerastuner
+	shallow = true
+	registered = true
+[submodule "tfaddons"]
+	path = tfaddons
+	url = https://github.com/eagerai/tfaddons
+	shallow = true
+	registered = true
