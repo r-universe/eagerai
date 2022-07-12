@@ -13,8 +13,3 @@
 	url = https://github.com/eagerai/kerastuner
 	shallow = true
 	registered = true
-[submodule "tfaddons"]
-	path = tfaddons
-	url = https://github.com/eagerai/tfaddons
-	shallow = true
-	registered = true
